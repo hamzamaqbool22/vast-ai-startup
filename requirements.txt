@@ -8,3 +8,6 @@ torch
 pillow
 huggingface_hub
 python-multipart
+rembg
+numpy
+onnxruntime
